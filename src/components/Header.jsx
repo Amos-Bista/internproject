@@ -8,8 +8,6 @@ const Header = () => {
         setMenuOpen(!MenuOpen)
     }
 
-
-
     return (
         <header className='flex justify-between items-center bg-white py-4 px-6 border-b-2'>
             <div className='text-2xl px-14 font-meduim '>Niled.</div>
@@ -52,8 +50,8 @@ const Header = () => {
 
                     </div>
 
-                
-            )}
+
+                )}
 
 
 
